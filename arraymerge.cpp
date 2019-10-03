@@ -7,7 +7,7 @@ int a[10],b[10],i,j,c[25],k;
 cout<<"enter the size";
 cin>>l;
 
-for (i=0;i<l;i++)
+for (i=0;i<l;i++)//change...
 cin>>a[i];
 
 cout<<"enter the size";
